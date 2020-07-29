@@ -3,6 +3,7 @@
 1. Create a folder _scss_
 2. Inside create a file **style.scss**
 3. Add a base styling to **style.scss** `{ box-sizing: border-box; padding: 0; margin: 0; }`
+4. In **index.html use** `<link rel="stylesheet" href="/css/style.css">` to link stylesheet
 
 ## There is 2 ways to use Sass compiler
 
